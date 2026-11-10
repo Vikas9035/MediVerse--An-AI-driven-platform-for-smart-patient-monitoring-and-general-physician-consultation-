@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "user_patient_alex",
+    "user_id": "user_patient_alex",
+    "total_points": 580,
+    "current_streak_days": 7,
+    "tier": "Gold",
+    "completed_habits_today": [
+      "Hydration Goal (2L Water)",
+      "Daily Vitals Checked & Recorded",
+      "8,000 Steps Walk Completed"
+    ],
+    "earned_badges": [
+      {
+        "name": "MediVerse Pioneer",
+        "icon": "Award",
+        "description": "Joined the smart healthcare platform",
+        "earned_at": "2026-09-05T15:19:30.027531"
+      },
+      {
+        "name": "Vitals Vigilant",
+        "icon": "Heart",
+        "description": "Consistently logged vitals for 5 consecutive days",
+        "earned_at": "2026-09-25T15:19:30.027531"
+      },
+      {
+        "name": "Silver Health Advocate",
+        "icon": "ShieldCheck",
+        "description": "Surpassed 250 wellness points through preventive care",
+        "earned_at": "2026-10-03T15:19:30.027531"
+      },
+      {
+        "name": "Gold Vitality Master",
+        "icon": "Zap",
+        "description": "Surpassed 500 wellness points through preventive care",
+        "earned_at": "2026-10-12T10:00:00.000000"
+      }
+    ],
+    "claimed_rewards": [
+      {
+        "claim_id": "claim_001",
+        "reward_id": "rew_1",
+        "title": "$15 Off Physician Teleconsultation",
+        "voucher_code": "MV-PERK-A93K2F",
+        "points_spent": 150,
+        "claimed_at": "2026-09-28T15:19:30.027531"
+      }
+    ],
+    "updated_at": "2026-10-18T10:30:00.000000"
+  },
+  {
+    "_id": "7060f497e9d1471f97168040c809f101",
+    "user_id": "7060f497e9d1471f97168040c809f101",
+    "total_points": 380,
+    "current_streak_days": 5,
+    "tier": "Silver",
+    "completed_habits_today": [
+      "welcome_signup",
+      "Hydration Goal (2L Water)",
+      "Booked consultation with Hushush",
+      "Vitals logged at 09:13",
+      "Completed consultation with Hushush"
+    ],
+    "earned_badges": [
+      "MediVerse Welcome Pioneer",
+      "Silver Health Advocate"
+    ],
+    "claimed_rewards": [],
+    "updated_at": "2026-10-18T09:13:49.524387"
+  },
+  {
+    "_id": "836b5a05d2ce437197d26df86bb6ca43",
+    "user_id": "836b5a05d2ce437197d26df86bb6ca43",
+    "total_points": 270,
+    "current_streak_days": 3,
+    "tier": "Silver",
+    "completed_habits_today": [
+      "welcome_signup",
+      "Booked consultation with Hushush",
+      "Vitals logged at 13:46"
+    ],
+    "earned_badges": [
+      "MediVerse Welcome Pioneer",
+      "Silver Health Advocate"
+    ],
+    "claimed_rewards": [],
+    "updated_at": "2026-10-18T13:46:48.362664"
+  },
+  {
+    "_id": "fd94ef4aab9243578e16aadccce38c58",
+    "user_id": "fd94ef4aab9243578e16aadccce38c58",
+    "total_points": 180,
+    "current_streak_days": 2,
+    "tier": "Bronze",
+    "completed_habits_today": [
+      "welcome_signup",
+      "Hydration Goal (2L Water)"
+    ],
+    "earned_badges": [
+      "MediVerse Welcome Pioneer"
+    ],
+    "claimed_rewards": [],
+    "updated_at": "2026-10-18T08:59:13.932992"
+  },
+  {
+    "_id": "b2f14f1a712d4a57b5f591a1cf613322",
+    "user_id": "b2f14f1a712d4a57b5f591a1cf613322",
+    "total_points": 125,
+    "current_streak_days": 1,
+    "tier": "Bronze",
+    "completed_habits_today": [
+      "welcome_signup"
+    ],
+    "earned_badges": [
+      "MediVerse Welcome Pioneer"
+    ],
+    "claimed_rewards": [],
+    "updated_at": "2026-10-18T08:56:28.848436"
+  }
+]

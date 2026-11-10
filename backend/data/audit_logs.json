@@ -1,0 +1,136 @@
+[
+  {
+    "event": "DATABASE_INITIALIZED",
+    "detail": "MediVerse seed accounts and UN SDG 3 health profiles generated",
+    "timestamp": "2026-10-05T15:19:30.027531",
+    "_id": "29d609e6eeed412180d327cb74e4302e"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "f286781120774c3dbed9ce2a42154d12",
+    "email": "vikas123@gmail.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T08:14:29.130590",
+    "_id": "dc329945717943358237fa46f8178612"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "99e774735da7473ea5b428a57296c81f",
+    "email": "drsrujan@gmaiil.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T08:20:01.803931",
+    "_id": "79a15baf452140ab8df5769f822ad0c1"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "b2f14f1a712d4a57b5f591a1cf613322",
+    "email": "nanuclinic@gmail.com",
+    "role": "patient",
+    "timestamp": "2026-10-06T08:56:28.848436",
+    "_id": "24e1198e487c475aac764428695b0ed2"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "fd94ef4aab9243578e16aadccce38c58",
+    "email": "giri132@gmail.com",
+    "role": "patient",
+    "timestamp": "2026-10-06T08:59:13.932992",
+    "_id": "c3c59f7cef3e4b2f8cf657c9202d92f4"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "0890338b348a45068ed13e6b5deacf2c",
+    "email": "hush@gmail.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T09:10:06.805192",
+    "_id": "d3b85317a0f34d5babdb5070903b9bf7"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "7060f497e9d1471f97168040c809f101",
+    "email": "tushsh@gmail.com",
+    "role": "patient",
+    "timestamp": "2026-10-06T09:11:19.353476",
+    "_id": "5235c40624504476b6fe2cbae8efc7d9"
+  },
+  {
+    "event": "APPOINTMENT_BOOKED",
+    "appointment_id": "9e0f0145ab3243d2bf2793ca5a84b870",
+    "patient_id": "7060f497e9d1471f97168040c809f101",
+    "doctor_id": "0890338b348a45068ed13e6b5deacf2c",
+    "timestamp": "2026-10-06T09:11:47.154231",
+    "_id": "c51cbf91e6da4cdba7eeef59ad04144b"
+  },
+  {
+    "event": "APPOINTMENT_BOOKED",
+    "appointment_id": "983c162cf9854710ab1eaa06fa803d9b",
+    "patient_id": "7060f497e9d1471f97168040c809f101",
+    "doctor_id": "99e774735da7473ea5b428a57296c81f",
+    "timestamp": "2026-10-06T09:12:02.223120",
+    "_id": "d40577f493ca47679728931f1fb62a04"
+  },
+  {
+    "event": "USER_LOGIN",
+    "user_id": "0890338b348a45068ed13e6b5deacf2c",
+    "email": "hush@gmail.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T09:15:35.837542",
+    "_id": "f33beb59944245a9816474b69da705c4"
+  },
+  {
+    "event": "USER_LOGIN",
+    "user_id": "7060f497e9d1471f97168040c809f101",
+    "email": "tushsh@gmail.com",
+    "role": "patient",
+    "timestamp": "2026-10-06T09:17:52.695793",
+    "_id": "7cb49a1f959841858b67613983e2f199"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "7a6ed16d660144deb03267f4386a6f61",
+    "email": "drlingu@gmail.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T12:39:33.658456",
+    "_id": "5bf6321d24214ee28a08e732ccf3c092"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "51749e8f0de243eaa0d301202758f9f0",
+    "email": "jyotibirabar@gmail.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T13:40:37.378044",
+    "_id": "dfad73aa02c24d829df0ac747dcc6449"
+  },
+  {
+    "event": "USER_REGISTERED",
+    "user_id": "836b5a05d2ce437197d26df86bb6ca43",
+    "email": "nagus@gmail.com",
+    "role": "patient",
+    "timestamp": "2026-10-06T13:42:09.896529",
+    "_id": "d7706067050f4319ac5984923ef6b953"
+  },
+  {
+    "event": "APPOINTMENT_BOOKED",
+    "appointment_id": "13fa8c9a7b464918bf0130f15bf49252",
+    "patient_id": "836b5a05d2ce437197d26df86bb6ca43",
+    "doctor_id": "0890338b348a45068ed13e6b5deacf2c",
+    "timestamp": "2026-10-06T13:43:15.926918",
+    "_id": "b19867aec2ff49118b618b1b7fae1fed"
+  },
+  {
+    "event": "USER_LOGIN",
+    "user_id": "836b5a05d2ce437197d26df86bb6ca43",
+    "email": "nagus@gmail.com",
+    "role": "patient",
+    "timestamp": "2026-10-06T13:51:35.477112",
+    "_id": "07711f81defe48a3a416a2ca04374f3c"
+  },
+  {
+    "event": "USER_LOGIN",
+    "user_id": "7a6ed16d660144deb03267f4386a6f61",
+    "email": "drlingu@gmail.com",
+    "role": "doctor",
+    "timestamp": "2026-10-06T13:54:19.947637",
+    "_id": "f074dbc513114fd49fc1d383e1112f1d"
+  }
+]

@@ -1,0 +1,243 @@
+[
+  {
+    "_id": "doc_sarah_01",
+    "doctor_id": "doc_sarah_01",
+    "name": "Dr. Sarah Chen, MD",
+    "email": "doctor.sarah@mediverse.health",
+    "specialty": "General Physician",
+    "qualification": "MD - Internal Medicine, Harvard Medical School",
+    "experience_years": 11,
+    "consultation_fee": 50.0,
+    "rating": 4.96,
+    "total_reviews": 68,
+    "bio": "Senior General Physician specializing in preventive medicine, continuous vital monitoring, metabolic health, and patient-centered lifestyle interventions.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "time_slots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM",
+      "05:30 PM"
+    ],
+    "created_at": "2026-08-21T15:19:30.027531"
+  },
+  {
+    "_id": "doc_marcus_02",
+    "doctor_id": "doc_marcus_02",
+    "name": "Dr. Marcus Vance, MD, FACC",
+    "email": "doctor.marcus@mediverse.health",
+    "specialty": "Cardiologist",
+    "qualification": "MD - Cardiology, Johns Hopkins Medicine",
+    "experience_years": 14,
+    "consultation_fee": 75.0,
+    "rating": 4.92,
+    "total_reviews": 84,
+    "bio": "Cardiovascular specialist focused on early hypertension detection, heart failure prevention, lipidology, and digital wearable telemetry monitoring.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Wednesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "10:00 AM",
+      "11:30 AM",
+      "02:00 PM",
+      "03:30 PM",
+      "05:00 PM"
+    ],
+    "created_at": "2026-08-21T15:19:30.027531"
+  },
+  {
+    "_id": "doc_priya_03",
+    "doctor_id": "doc_priya_03",
+    "name": "Dr. Priya Patel, MD",
+    "email": "doctor.priya@mediverse.health",
+    "specialty": "Endocrinologist",
+    "qualification": "MD, DM - Endocrinology, Stanford Health",
+    "experience_years": 9,
+    "consultation_fee": 65.0,
+    "rating": 4.88,
+    "total_reviews": 52,
+    "bio": "Consultant endocrinologist with special interest in Type 2 Diabetes reversal strategies, thyroid disorders, and preventive metabolic wellness.",
+    "is_verified": true,
+    "available_days": [
+      "Tuesday",
+      "Wednesday",
+      "Friday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "09:30 AM",
+      "11:00 AM",
+      "01:30 PM",
+      "03:00 PM",
+      "04:30 PM"
+    ],
+    "created_at": "2026-08-21T15:19:30.027531"
+  },
+  {
+    "_id": "f286781120774c3dbed9ce2a42154d12",
+    "doctor_id": "f286781120774c3dbed9ce2a42154d12",
+    "name": "Dr.Vikas patil ",
+    "email": "vikas123@gmail.com",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience_years": 19,
+    "consultation_fee": 45.0,
+    "rating": 4.9,
+    "total_reviews": 18,
+    "bio": "Dedicated Cardiologist focusing on preventive healthcare, continuous monitoring, and evidence-based medicine.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM",
+      "05:30 PM"
+    ],
+    "created_at": "2026-10-06T08:14:29.130590"
+  },
+  {
+    "_id": "99e774735da7473ea5b428a57296c81f",
+    "doctor_id": "99e774735da7473ea5b428a57296c81f",
+    "name": "Dr. Srujan ",
+    "email": "drsrujan@gmaiil.com",
+    "specialty": "General Physician",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience_years": 10,
+    "consultation_fee": 45.0,
+    "rating": 4.9,
+    "total_reviews": 18,
+    "bio": "Dedicated General Physician focusing on preventive healthcare, continuous monitoring, and evidence-based medicine.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM",
+      "05:30 PM"
+    ],
+    "created_at": "2026-10-06T08:20:01.803931"
+  },
+  {
+    "_id": "0890338b348a45068ed13e6b5deacf2c",
+    "doctor_id": "0890338b348a45068ed13e6b5deacf2c",
+    "name": "Hushush",
+    "email": "hush@gmail.com",
+    "specialty": "General Physician",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience_years": 6,
+    "consultation_fee": 45.0,
+    "rating": 4.9,
+    "total_reviews": 18,
+    "bio": "Dedicated General Physician focusing on preventive healthcare, continuous monitoring, and evidence-based medicine.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM",
+      "05:30 PM"
+    ],
+    "created_at": "2026-10-06T09:10:06.805192"
+  },
+  {
+    "_id": "7a6ed16d660144deb03267f4386a6f61",
+    "doctor_id": "7a6ed16d660144deb03267f4386a6f61",
+    "name": "Dr. Lingaraju",
+    "email": "drlingu@gmail.com",
+    "specialty": "Cardiologist",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience_years": 19,
+    "consultation_fee": 45.0,
+    "rating": 4.9,
+    "total_reviews": 18,
+    "bio": "Dedicated Cardiologist focusing on preventive healthcare, continuous monitoring, and evidence-based medicine.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM",
+      "05:30 PM"
+    ],
+    "created_at": "2026-10-06T12:39:33.658456"
+  },
+  {
+    "_id": "51749e8f0de243eaa0d301202758f9f0",
+    "doctor_id": "51749e8f0de243eaa0d301202758f9f0",
+    "name": "Dr. Jyotiba",
+    "email": "jyotibirabar@gmail.com",
+    "specialty": "General Physician",
+    "qualification": "MBBS, MD (General Medicine)",
+    "experience_years": 6,
+    "consultation_fee": 45.0,
+    "rating": 4.9,
+    "total_reviews": 18,
+    "bio": "Dedicated General Physician focusing on preventive healthcare, continuous monitoring, and evidence-based medicine.",
+    "is_verified": true,
+    "available_days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "time_slots": [
+      "09:00 AM",
+      "10:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:00 PM",
+      "05:30 PM"
+    ],
+    "created_at": "2026-10-06T13:40:37.378044"
+  }
+]

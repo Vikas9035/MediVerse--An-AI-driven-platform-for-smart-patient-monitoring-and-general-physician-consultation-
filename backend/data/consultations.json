@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "cons_alex_01",
+    "appointment_id": "appt_past_01",
+    "patient_id": "user_patient_alex",
+    "patient_name": "Alexander Wright",
+    "doctor_id": "doc_sarah_01",
+    "doctor_name": "Dr. Sarah Chen, MD",
+    "doctor_specialty": "General Physician",
+    "diagnosis": "Allergic Rhinitis & Optimal Blood Pressure Control",
+    "symptoms_observed": [
+      "Mild nasal mucosal swelling",
+      "Clear rhinorrhea"
+    ],
+    "clinical_notes": "Patient is in excellent overall spirits. Resting vitals recorded during consultation: BP 122/80 mmHg, HR 72 bpm. Symptoms are consistent with environmental pollen allergy. Advised non-sedating antihistamines and saline nasal irrigation.",
+    "prescriptions": [
+      {
+        "medicine_name": "Cetirizine 10mg Tablets",
+        "dosage": "1 tablet",
+        "frequency": "Once daily at bedtime",
+        "duration_days": 10,
+        "instructions": "Non-drowsy formulation. Avoid alcohol."
+      },
+      {
+        "medicine_name": "Fluticasone Propionate Nasal Spray",
+        "dosage": "2 sprays per nostril",
+        "frequency": "Once daily in the morning",
+        "duration_days": 14,
+        "instructions": "Shake well before use."
+      }
+    ],
+    "dietary_advice": "Maintain hydration with warm herbal teas, boost vitamin C intake from citrus fruits and bell peppers.",
+    "lifestyle_recommendations": "Keep bedroom windows closed during peak pollen morning hours. Continue daily 30-minute moderate walks.",
+    "follow_up_recommended": true,
+    "follow_up_date": "2026-10-07",
+    "created_at": "2026-09-25T15:19:30.027531"
+  },
+  {
+    "_id": "043400c650f040ceb519ac11cec33c78",
+    "appointment_id": "9e0f0145ab3243d2bf2793ca5a84b870",
+    "patient_id": "7060f497e9d1471f97168040c809f101",
+    "patient_name": "tushsh",
+    "doctor_id": "0890338b348a45068ed13e6b5deacf2c",
+    "doctor_name": "Hushush",
+    "doctor_specialty": "General Physician",
+    "diagnosis": "Follow-up Evaluation: General Health Checkup & Vitals Review",
+    "symptoms_observed": [],
+    "clinical_notes": "Examined...",
+    "prescriptions": [
+      {
+        "medicine_name": "Cetirizine 10mg Tablets",
+        "dosage": "1 tablet",
+        "frequency": "Once daily at bedtime",
+        "duration_days": 10,
+        "instructions": "Non-drowsy formulation. Avoid alcohol."
+      }
+    ],
+    "dietary_advice": "Maintain low-sodium DASH dietary principles. Drink at least 2.2L of water daily.",
+    "lifestyle_recommendations": "Continue 30 minutes of moderate aerobic walking 5 days a week.",
+    "follow_up_recommended": true,
+    "follow_up_date": "2026-10-20",
+    "created_at": "2026-10-06T09:17:31.742009"
+  }
+]

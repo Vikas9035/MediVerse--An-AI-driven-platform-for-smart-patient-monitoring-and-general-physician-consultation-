@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "user_admin_01",
+    "name": "Platform Administrator",
+    "email": "admin@mediverse.health",
+    "password_hash": "sha256$0212176be282c1796c02cc05a783551c55cb9b90581e407773c541c52d9848e3",
+    "role": "admin",
+    "phone": "+1 (555) 019-2834",
+    "is_active": true,
+    "created_at": "2026-08-06T15:19:30.027531",
+    "updated_at": "2026-10-05T15:19:30.027531"
+  },
+  {
+    "_id": "doc_sarah_01",
+    "name": "Dr. Sarah Chen, MD",
+    "email": "doctor.sarah@mediverse.health",
+    "password_hash": "sha256$79991772143b2cbd1ec019ee2c65cdeb1e7471b0824a64574302f53d1eab85bd",
+    "role": "doctor",
+    "phone": "+1 (555) 234-8901",
+    "is_active": true,
+    "created_at": "2026-08-21T15:19:30.027531",
+    "updated_at": "2026-10-05T15:19:30.027531"
+  },
+  {
+    "_id": "doc_marcus_02",
+    "name": "Dr. Marcus Vance, MD, FACC",
+    "email": "doctor.marcus@mediverse.health",
+    "password_hash": "sha256$79991772143b2cbd1ec019ee2c65cdeb1e7471b0824a64574302f53d1eab85bd",
+    "role": "doctor",
+    "phone": "+1 (555) 234-8901",
+    "is_active": true,
+    "created_at": "2026-08-21T15:19:30.027531",
+    "updated_at": "2026-10-05T15:19:30.027531"
+  },
+  {
+    "_id": "doc_priya_03",
+    "name": "Dr. Priya Patel, MD",
+    "email": "doctor.priya@mediverse.health",
+    "password_hash": "sha256$79991772143b2cbd1ec019ee2c65cdeb1e7471b0824a64574302f53d1eab85bd",
+    "role": "doctor",
+    "phone": "+1 (555) 234-8901",
+    "is_active": true,
+    "created_at": "2026-08-21T15:19:30.027531",
+    "updated_at": "2026-10-05T15:19:30.027531"
+  },
+  {
+    "_id": "user_patient_alex",
+    "name": "Alexander Wright",
+    "email": "patient@mediverse.health",
+    "password_hash": "sha256$79991772143b2cbd1ec019ee2c65cdeb1e7471b0824a64574302f53d1eab85bd",
+    "role": "patient",
+    "phone": "+1 (555) 789-4321",
+    "is_active": true,
+    "created_at": "2026-09-05T15:19:30.027531",
+    "updated_at": "2026-10-05T15:19:30.027531"
+  },
+  {
+    "_id": "f286781120774c3dbed9ce2a42154d12",
+    "name": "Dr.Vikas patil ",
+    "email": "vikas123@gmail.com",
+    "password_hash": "$2b$12$tJ6W5BSlgvkOgrOGFW/Pj.rX8lgAL5pvTdH87EfieiUCKrDoAfcSS",
+    "role": "doctor",
+    "phone": "0967344674",
+    "is_active": true,
+    "created_at": "2026-10-06T08:14:29.130590",
+    "updated_at": "2026-10-06T08:14:29.130590"
+  },
+  {
+    "_id": "99e774735da7473ea5b428a57296c81f",
+    "name": "Dr. Srujan ",
+    "email": "drsrujan@gmaiil.com",
+    "password_hash": "$2b$12$WpMB8.Sq4o/0omI5XDpZPOFdzk4LlPmCmemwoS.kFd/BUfpZeeNwy",
+    "role": "doctor",
+    "phone": "9192394349",
+    "is_active": true,
+    "created_at": "2026-10-06T08:20:01.803931",
+    "updated_at": "2026-10-06T08:20:01.803931"
+  },
+  {
+    "_id": "b2f14f1a712d4a57b5f591a1cf613322",
+    "name": "nanu",
+    "email": "nanuclinic@gmail.com",
+    "password_hash": "$2b$12$7XQAr5o0Kjdaf0huwawVC.ZzVoCVzdwCgmmHyvVanvKj8frEsWuo.",
+    "role": "patient",
+    "phone": "9896704343",
+    "is_active": true,
+    "created_at": "2026-10-06T08:56:28.848436",
+    "updated_at": "2026-10-06T08:56:28.848436"
+  },
+  {
+    "_id": "fd94ef4aab9243578e16aadccce38c58",
+    "name": "Giri",
+    "email": "giri132@gmail.com",
+    "password_hash": "$2b$12$KocWvlmQEq6PaRoUpjFEf.hI9fuuEvZqYf49ekFl.dxRuuYFj7Mja",
+    "role": "patient",
+    "phone": "+918088408142",
+    "is_active": true,
+    "created_at": "2026-10-06T08:59:13.932992",
+    "updated_at": "2026-10-06T08:59:13.932992"
+  },
+  {
+    "_id": "0890338b348a45068ed13e6b5deacf2c",
+    "name": "Hushush",
+    "email": "hush@gmail.com",
+    "password_hash": "$2b$12$1OGmkUhxSCpKL6ztcMMJ7uvWQIsI3wifVBRqQ0Rmoh1pRZh4ifnXG",
+    "role": "doctor",
+    "phone": "9448384900",
+    "is_active": true,
+    "created_at": "2026-10-06T09:10:06.805192",
+    "updated_at": "2026-10-06T09:10:06.805192"
+  },
+  {
+    "_id": "7060f497e9d1471f97168040c809f101",
+    "name": "tushsh",
+    "email": "tushsh@gmail.com",
+    "password_hash": "$2b$12$P14djuEN0bLorBgwt9aeSOESMdPsifsrKi5DnFHHJggGgajMeTFFC",
+    "role": "patient",
+    "phone": "9098898767",
+    "is_active": true,
+    "created_at": "2026-10-06T09:11:19.353476",
+    "updated_at": "2026-10-06T09:11:19.353476"
+  },
+  {
+    "_id": "7a6ed16d660144deb03267f4386a6f61",
+    "name": "Dr. Lingaraju",
+    "email": "drlingu@gmail.com",
+    "password_hash": "$2b$12$0ZqwjuqX17x6QeDKuMSjpOX9OMCeRR.PfOUSSGN0XF.g4PGYPHnFC",
+    "role": "doctor",
+    "phone": "8088408142",
+    "is_active": true,
+    "created_at": "2026-10-06T12:39:33.658456",
+    "updated_at": "2026-10-06T12:39:33.658456"
+  },
+  {
+    "_id": "51749e8f0de243eaa0d301202758f9f0",
+    "name": "Dr. Jyotiba",
+    "email": "jyotibirabar@gmail.com",
+    "password_hash": "$2b$12$WOE6zc.41F7DDVSIimMll.qpyDDYFC96EhRc2wQo3N0n5HW0tn7P.",
+    "role": "doctor",
+    "phone": "2200332200",
+    "is_active": true,
+    "created_at": "2026-10-06T13:40:37.378044",
+    "updated_at": "2026-10-06T13:40:37.378044"
+  },
+  {
+    "_id": "836b5a05d2ce437197d26df86bb6ca43",
+    "name": "Nagu",
+    "email": "nagus@gmail.com",
+    "password_hash": "$2b$12$bmYpogRRVSU2mkJVgy0lpekuoi8eCRPTBObkp9N8LPZdSQCzuVU6G",
+    "role": "patient",
+    "phone": "2211330055",
+    "is_active": true,
+    "created_at": "2026-10-06T13:42:09.896529",
+    "updated_at": "2026-10-06T13:42:09.896529"
+  }
+]

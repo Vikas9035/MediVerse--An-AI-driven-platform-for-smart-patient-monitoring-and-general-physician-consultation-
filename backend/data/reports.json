@@ -1,0 +1,96 @@
+[
+  {
+    "_id": "rep_cbc_01",
+    "patient_id": "user_patient_alex",
+    "patient_name": "Alexander Wright",
+    "title": "Comprehensive Metabolic & Lipid Panel",
+    "report_type": "Blood Work",
+    "doctor_name": "Dr. Sarah Chen, MD",
+    "facility_name": "MediVerse Diagnostics Central",
+    "report_date": "2026-09-23",
+    "notes": "Annual preventive screening panel.",
+    "file_url": "/uploads/metabolic_panel.pdf",
+    "file_name": "metabolic_panel.pdf",
+    "ai_summary": "Overall metabolic profile is in solid condition. Fasting glucose (94 mg/dL) is within normal limits. Lipid panel shows total cholesterol at 198 mg/dL and HDL at 52 mg/dL. Renal and liver enzymes are optimal.",
+    "extracted_markers": [
+      {
+        "parameter": "Fasting Plasma Glucose",
+        "value": "94 mg/dL",
+        "reference": "70 - 99 mg/dL",
+        "status": "Normal"
+      },
+      {
+        "parameter": "Total Cholesterol",
+        "value": "198 mg/dL",
+        "reference": "< 200 mg/dL",
+        "status": "Optimal"
+      },
+      {
+        "parameter": "HDL Cholesterol",
+        "value": "52 mg/dL",
+        "reference": "> 40 mg/dL",
+        "status": "Optimal"
+      },
+      {
+        "parameter": "LDL Cholesterol",
+        "value": "118 mg/dL",
+        "reference": "< 100 mg/dL",
+        "status": "Borderline"
+      },
+      {
+        "parameter": "HbA1c",
+        "value": "5.4%",
+        "reference": "< 5.7%",
+        "status": "Normal"
+      }
+    ],
+    "abnormal_parameters_count": 1,
+    "doctor_action_needed": false,
+    "status": "Verified & Analyzed",
+    "created_at": "2026-09-23T15:19:30.027531"
+  },
+  {
+    "_id": "rep_ecg_02",
+    "patient_id": "user_patient_alex",
+    "patient_name": "Alexander Wright",
+    "title": "12-Lead Rest ECG Cardiac Evaluation",
+    "report_type": "ECG",
+    "doctor_name": "Dr. Marcus Vance, MD",
+    "facility_name": "Cardiology Center of Excellence",
+    "report_date": "2026-09-13",
+    "notes": "Routine cardiovascular assessment.",
+    "file_url": "/uploads/ecg_evaluation.pdf",
+    "file_name": "ecg_evaluation.pdf",
+    "ai_summary": "Electrocardiogram confirms normal sinus rhythm at 68 bpm. PR and QT intervals are within standard physiologic limits. No evidence of ventricular hypertrophy or acute ischemic ST changes.",
+    "extracted_markers": [
+      {
+        "parameter": "Heart Rhythm",
+        "value": "Sinus Rhythm",
+        "reference": "Sinus Rhythm",
+        "status": "Normal"
+      },
+      {
+        "parameter": "Resting Heart Rate",
+        "value": "68 bpm",
+        "reference": "60 - 100 bpm",
+        "status": "Normal"
+      },
+      {
+        "parameter": "PR Interval",
+        "value": "152 ms",
+        "reference": "120 - 200 ms",
+        "status": "Normal"
+      },
+      {
+        "parameter": "QTc Interval",
+        "value": "408 ms",
+        "reference": "< 450 ms",
+        "status": "Normal"
+      }
+    ],
+    "abnormal_parameters_count": 0,
+    "doctor_action_needed": false,
+    "status": "Verified & Analyzed",
+    "created_at": "2026-09-13T15:19:30.027531"
+  }
+]
